@@ -1,6 +1,9 @@
 <html>
 <body>
-Hello World
+<p>Hello World</p>
+<p>From SoCProjects</p>
+<p>Goodbye!</p>
+<p><a href="newpage.html">New page</a>
 </body>
 </html>
 
